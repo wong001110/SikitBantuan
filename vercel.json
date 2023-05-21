@@ -4,8 +4,8 @@
     "framework": "vite",
     "rewrites": [
         {
-            "source": "/api/(.*)",
-            "destination": "/api/index.js"
+            "source": "https://sikit-bantuan-api.vercel.app/(.*)",
+            "destination": "https://sikit-bantuan-api.vercel.app/index.js"
         },
         {
             "source": "/(.*)",
