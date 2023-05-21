@@ -4,10 +4,6 @@
     "framework": "vite",
     "rewrites": [
         {
-            "source": "https://sikit-bantuan-api.vercel.app/(.*)",
-            "destination": "https://sikit-bantuan-api.vercel.app/index.js"
-        },
-        {
             "source": "/(.*)",
             "destination": "/"
         }
